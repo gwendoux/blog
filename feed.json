@@ -9,5 +9,20 @@
         "name": "gwendoux"
     },
     "items": [
+        {
+            "id": "https://gwendoux.github.io/blog/permutter-de-fenetres-au-sein-dune-application.html",
+            "url": "https://gwendoux.github.io/blog/permutter-de-fenetres-au-sein-dune-application.html",
+            "title": "Raccourci clavier, comme un problème de traduction",
+            "summary": "Après avoir passé quelques temps sur un clavier qwerty j'ai pris l'habitude&hellip;",
+            "content_html": "<p>Après avoir passé quelques temps sur un clavier qwerty j'ai pris l'habitude de changer de fenetre au sein d'une même application en utilisant la touche 'cmd + `'.</p>\n<p>Si sur un clavier qwerty cette touche est idéalement placée au dessus de la touche tab, ce n'est pas vraiment le cas sur un clavier azerty. Ce n'est pas aisé d'utiliser ce raccourci clavier quand on veut bouger un onglet d'une page web d'une fenêtre à une autre.</p>\n<p>Evidement j'ai cherché à faire bien plus compliqué alors qu'il existe une solution très simple ... modifier les touches clés du raccourci. </p>\n<p>menu préférences clavier &gt; Raccourcis &gt; Clavier </p>\n<p>puis cliquer sur la combinaison de la ligne \"Move focus to the next drawer\"</p>\n<p>la commande devient éditable. Pour moi ca sera 'cmd + @' </p>\n<p>Et voilà, c'est simple et c'est plus rapide au clavier.</p>",
+            "image": "https://gwendoux.github.io/blog/media/posts/1/",
+            "author": {
+                "name": "gwendoux"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-21T14:46:09+02:00",
+            "date_modified": "2018-09-21T14:46:09+02:00"
+        }
     ]
 }
